@@ -1,0 +1,17 @@
+# STM32CubeIDE build output
+Debug/
+Release/
+
+# Eclipse workspace data
+.metadata/
+
+# Compiled binaries
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+
+# Temporary / OS files
+.DS_Store
+Thumbs.db
